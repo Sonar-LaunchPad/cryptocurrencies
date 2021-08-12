@@ -65,6 +65,13 @@
             "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
         },
         {
+            "title": "StarShip",
+            "code": "STARSHIP",
+            "decimal": 9,
+            "type": "bep20",
+            "address": "0x52419258e3fa44deac7e670eadd4c892b480a805"
+        },
+        {
             "title": "Balancer",
             "code": "BAL",
             "decimal": 18,
